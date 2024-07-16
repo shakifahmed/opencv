@@ -38,27 +38,46 @@ This repository contains a comprehensive tutorial on using OpenCV for image proc
 
 ## Thresholding
 - Binary & Binary Inverse Thresholding
+  
+  ![Filtering Example](images/binary_thresh.png)
 
 - Trunc Thresholding
+  
+  ![Filtering Example](images/trunc.png)
 
 - Tozero & Tozero Inverse Thresholding
+  
+  ![Filtering Example](images/tozero.png)
 
 - ADAPTIVE_THRESH_MEAN_C
+  
+  ![Filtering Example](images/adapt_mean_c.png)
 
 - ADAPTIVE_THRESH_GAUSSIAN_C
+  
+  ![Filtering Example](images/adapt_gaus_c.png)
 
 - Otsu Thresholding
+  
+  ![Filtering Example](images/otsu.png)
 
 ## Histogram
+![Filtering Example](images/histogram.png)
 
 ## Histogram Equalization
+![Filtering Example](images/hist_equalization.png)
 
 ## Morphological Transformations
 - Erosion
+  
+  ![Filtering Example](images/erosion.png)
 
 - Dilation
+  
+  ![Filtering Example](images/dilation.png)
 
 ## Image Gradients & Edge Detection
+![Filtering Example](images/img_grad_edge_detect.png)
 
 
 
