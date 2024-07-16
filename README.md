@@ -19,14 +19,19 @@ This repository contains a comprehensive tutorial on using OpenCV for image proc
 
 ## Resizing Images
 ![Resizing Example](images/resize.png)
+
 ## Cropping Images
+![cropping Example](images/crop.png)
 
 ## Flipping Images
+![cropping Example](images/flip.png)
 
 ## Filtering Images
 - Gaussian Blur , Normal Blur and Bilateral Blur
+![Filtering Example](images/filtering.png)
 
 - Median Blur
+![Median Blur Example](images/median.png)
 
 ## Thresholding
 - Binary & Binary Inverse Thresholding
