@@ -4,24 +4,15 @@ This repository contains a comprehensive tutorial on using OpenCV for image proc
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Import Libraries](#import-libraries)
-3. [Reading, Writing, and Displaying Images](#reading-writing-and-displaying-images)
-4. [Resizing Images](#resizing-images)
-5. [Cropping Images](#cropping-images)
-6. [Flipping Images](#flipping-images)
-7. [Rotating Images](#rotating-images)
-8. [Filtering Images](#filtering-images)
-9. [Histogram Equalization](#histogram-equalization)
-10. [Morphological Transformations](#morphological-transformations)
-11. [Thresholding](#thresholding)
-12. [Image Size and Brightness](#image-size-and-brightness)
-13. [Minimum Bits Per Pixel](#minimum-bits-per-pixel)
-14. [Finding Mean](#finding-mean)
-
-## Installation
-
-To use the code in this repository, you need to install OpenCV. You can install it using pip:
-
-```bash
-pip install opencv-python
+- Reading, Writing, and Displaying Images
+- Resizing Images
+- Cropping Images
+- Flipping Images
+- Rotating Images
+- Filtering Images
+- Histogram Equalization
+- Morphological Transformations
+- Thresholding
+- Image Size and Brightness
+- Minimum Bits Per Pixel
+- Finding Mean
