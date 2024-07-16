@@ -18,7 +18,7 @@ This repository contains a comprehensive tutorial on using OpenCV for image proc
 - Finding Mean
 
 ## Resizing Images
-!(images/resize.png)
+![Resizing Example](images/resize.png)
 ## Cropping Images
 
 ## Flipping Images
