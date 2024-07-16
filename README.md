@@ -27,14 +27,12 @@ This repository contains a comprehensive tutorial on using OpenCV for image proc
 ![cropping Example](images/flip.png)
 
 ## Filtering Images
-- Gaussian Blur , Normal Blur and Bilateral Blur
+- Gaussian Blur, Normal Blur, and Bilateral Blur
   ![Filtering Example](images/filtering.png)
-
-
-
 
 - Median Blur
   ![Median Blur Example](images/median.png)
+
 
 ## Thresholding
 - Binary & Binary Inverse Thresholding
