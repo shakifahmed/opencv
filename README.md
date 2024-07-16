@@ -16,9 +16,6 @@ This repository contains a comprehensive tutorial on using OpenCV for image proc
 - Image Size and Brightness
 - Minimum Bits Per Pixel
 - Finding Mean
---
-
-## Reading, Writing, and Displaying Images
 
 ## Resizing Images
 
@@ -26,18 +23,34 @@ This repository contains a comprehensive tutorial on using OpenCV for image proc
 
 ## Flipping Images
 
-## Rotating Images
-
 ## Filtering Images
+- Gaussian Blur , Normal Blur and Bilateral Blur
+
+- Median Blur
+
+## Thresholding
+- Binary & Binary Inverse Thresholding
+
+- Trunc Thresholding
+
+- Tozero & Tozero Inverse Thresholding
+
+- ADAPTIVE_THRESH_MEAN_C
+
+- ADAPTIVE_THRESH_GAUSSIAN_C
+
+- Otsu Thresholding
+
+## Histogram
 
 ## Histogram Equalization
 
 ## Morphological Transformations
+- Erosion
 
-## Thresholding
+- Dilation
 
-## Image Size and Brightness
+## Image Gradients & Edge Detection
 
-## Minimum Bits Per Pixel
 
-## Finding Mean
+
